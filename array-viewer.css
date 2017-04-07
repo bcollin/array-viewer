@@ -1,0 +1,15 @@
+/* Styles for Array Viewer. */
+
+.array_container.closed .array_value {
+  display: none;
+}
+
+.array_key {
+  background: #ccc;
+  min-width: 5em;
+  cursor: pointer;
+}
+
+.array_value {
+  padding-left: 2em;
+}
